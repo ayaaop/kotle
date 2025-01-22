@@ -388,6 +388,7 @@ function debugError(...args) {
             'renameSections',
             'removeOpenVKTitle',
             'oldSubsAndGiftsOrder',
+            'addAllFeedLink',
         ], // Твики для вкладки "Скрипты"
     },
     default: {
